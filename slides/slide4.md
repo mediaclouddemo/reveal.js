@@ -1,8 +1,8 @@
-# Título
-## Subtíulo 1
+# Titulo
+## Subtitulo 1
 Tricu tricu.
 Truscu truscu.
-## Subtíulo 2
+## Subtitulo 2
 Tricu tricu.
 Truscu truscu.
 
