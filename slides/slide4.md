@@ -22,7 +22,7 @@
 --
 
 ##The Problem – Complexity, Inefficiency, Inflexibility
-Imagen de the problem
+![alt text](images/theproblem.png "The Problem")
 
 ---
 
