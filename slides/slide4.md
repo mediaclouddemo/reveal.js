@@ -11,12 +11,13 @@
 --
 
 ##Evolution of IT
-![alt text](images/thechallenge.png "Logo Title Text 1")
+![alt text](images/thechallenge.png "The Challenge")
 
 --
 
 ##App-dev workloads are quickly moving to the cloud
-Imagen Current - Future
+![alt text](images/current-future.png "Current Future")
+> Source: 451 VotE Cloud, Q2 2015
 
 --
 
