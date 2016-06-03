@@ -18,8 +18,6 @@
 ##App-dev workloads are quickly moving to the cloud
 ![alt text](images/current-future.png "Current Future")
 
-***
-
 > Source: 451 VotE Cloud, Q2 2015
 
 --
@@ -35,34 +33,34 @@
 --
 
 ##The Challenge
-Imagen del challenge
+![alt text](images/thechallenge2.png "The Challenge")
 
 --
 
 ##Cargo Transport Pre-1960
-Imagen cargo
+![alt text](images/cargo.png "Cargo")
 
 --
 
 ##Solution: Intermodal Shipping Container
-Imagen shipping container
+![alt text](images/shipping.png "Shipping")
 
 --
 
 ##This eliminated the NXN problem…
-Imagen tabla contenedores
+![alt text](images/tabla.png "Tabla")
 
 --
 
 ##This eliminated the problem…
-Imagen container flechas
+![alt text](images/containerflechas.png "Container")
 
 --
 
 ##Container vs. Virtual Machines
 Containers offer significantly faster deployment, lesser overhead, easier migration and faster restart 
 
-Imagen VM Imagen Container
+![alt text](images/vmcontainer.png "Container")
 
 **Containers are isolated but share OS and, where appropriate, binaries and libraries**
 
@@ -82,16 +80,16 @@ Imagen VM Imagen Container
 --
 
 ##Continuous delivery
-Imagen Continouousdelivery
+![alt text](images/continouousdelivery.png "Delivery")
 
 --
 
-Imagen Build-ship-run
+![alt text](images/buildshiprun.png "Build Ship Run")
 
 --
 
 ##Developers love Containers
-Imagen Developers love Containers
+![alt text](images/love.png "Developers love containers")
 
 ---
 
@@ -202,5 +200,5 @@ Imagen gitintegration
 
 ---
 
-<!-- .slide: data-background-image="http://presentacion.apps.demolab.es/mediacloudfondo.png" data-background-size="100%" -->
+<!-- .slide: data-background-image="http://presentacion.apps.demolab.es/mediacloudfondo.png" data-background-size="cover" -->
 ![alt text](images/qrcode.png "QRCODE")
