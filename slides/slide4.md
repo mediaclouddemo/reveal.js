@@ -1,4 +1,3 @@
-<!-- .slide: data-background-image="images/mediacloud_logo_menu.png" data-background-size="10%" data-background-position="95% 95%" -->
 * Market View: IT Evolution
 * Devops, Containers and Microservices
 * Mediacloud POV: Hybrid Cloud Strategies
@@ -11,9 +10,8 @@
 
 --
 
-<!-- .slide: data-background-image="images/mediacloud_logo_menu.png" data-background-size="10%" data-background-position="95% 95%" -->
 ##Evolution of IT
-Imagen de the challenge
+![alt text](images/thechallenge.png "Logo Title Text 1")
 
 --
 
@@ -27,7 +25,27 @@ Imagen de the problem
 
 ---
 
+<!-- .slide: data-background="#8dc63f" -->
 #Devops, Containers and Microservices
+
+--
+
+##The Challenge
+Imagen del challenge
+
+--
+
+##Cargo Transport Pre-1960
+Imagen cargo
+
+--
+
+#Solution: Intermodal Shipping Container
+Imagen shipping container
+
+--
+
+
 
 ---
 
