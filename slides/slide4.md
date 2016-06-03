@@ -101,7 +101,7 @@ Imagen Developers love Containers
 --
 
 ##Grupo Imagina
-<!-- .slide: data-background-image="images/IMG_17982.jpg" data-background-size="100%" -->
+<!-- .slide: data-background-image="images/IMG_17982.jpg" data-background-size="cover" -->
 **IMAGINA** es uno de los grupos audiovisuales más importantes de Europa. 
 
 Con presencia en todo el mundo, proporciona soluciones técnicas e innovadoras para crear y transmitir cualquier producto audiovisual.
