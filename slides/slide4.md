@@ -101,6 +101,7 @@ Imagen Developers love Containers
 --
 
 ##Grupo Imagina
+<!-- .slide: data-background-image="images/IMG_17982.jpg" data-background-size="100%" -->
 **IMAGINA** es uno de los grupos audiovisuales más importantes de Europa. 
 
 Con presencia en todo el mundo, proporciona soluciones técnicas e innovadoras para crear y transmitir cualquier producto audiovisual.
@@ -157,12 +158,49 @@ Imagen architecture
 * Advanced Tools: PaaS Solution
 * Standard and Premium Containers (in preview)
 
----
+--
 
+##Container Run-Times
+Imagen containerruntimes
+
+--
+
+##Resource Management
+* CPU
+* Memory
+* Storage (Persistent and Non-Persistent)
+Imagen ResourceManagement
+
+--
+
+##Usage Monitoring
+* Cluster
+* Nodes
+* Projects
+* Pods
+* Containers
+
+--
+
+##Security
+Twistlock dispone de un dashboard que permite visualizar:
+
+* Usuarios activos
+* Imagenes y Container en riesgo
+* Análisis de les vulnerabilidades
+* ...
+
+--
+
+#Twistlock
+Imagen twistlock
+
+--
+
+#GIT/Jenkins integration
+Imagen gitintegration
+
+---
 
 <!-- .slide: data-background-image="http://presentacion.apps.demolab.es/mediacloudfondo.png" data-background-size="100%" -->
 ![alt text](images/qrcode.png "QRCODE")
-
-
-
-
