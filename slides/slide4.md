@@ -112,8 +112,7 @@ PROFESSIONALS | REVENUE 2014 | CENTERS | ENGINEERS & TECHNICIANS
 
 --
 
-##What we do
-![alt text](images/whatwedo.png "What we do")
+<!-- .slide: data-background-image="images/whatwedo.png" data-background-size="contain" -->
 
 --
 
@@ -126,7 +125,7 @@ Broad experience in **managing critical services**
 
 --
 
-![alt text](images/ourorigins.png "Mediapro")
+<!-- .slide: data-background-image="images/ourorigins.png" data-background-size="contain" -->
 
 --
 
