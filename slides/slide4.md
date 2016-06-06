@@ -98,42 +98,50 @@ Containers offer significantly faster deployment, lesser overhead, easier migrat
 
 --
 
-##Grupo Imagina
+##Imagina Group
 <!-- .slide: data-background-image="images/IMG_17982.jpg" data-background-size="cover" -->
-**IMAGINA** es uno de los grupos audiovisuales más importantes de Europa. 
+**IMAGINA** is one of the largest media groups in Europe.
 
-Con presencia en todo el mundo, proporciona soluciones técnicas e innovadoras para crear y transmitir cualquier producto audiovisual.
+With presence worldwide, provides techniques and innovative solutions to create and transmit any audiovisual product.
 
-Nacido de la integración entre dos grupos de comunicación, Mediapro y Globomedia, el grupo **IMAGINA** es líder en Europa y único en integración de contenidos con producción y distribución de servicios.
+Born of integration between two media groups, Mediapro and Globomedia, the IMAGINA Group is a leader in Europe and unique integration of content production and distribution services.
 
 **3.601** | **1.409 M€** | **36** | **634**
 :---: | :---: | :---: | :---:
-Profesionales | Facturación 2014 | Centros | Ingenieros y técnicos
+PROFESSIONALS | REVENUE 2014 | CENTERS | ENGINEERS & TECHNICIANS
 
 --
 
-##Que hacemos
-Imagen que hacemos
+##What we do
+![alt text](images/whatwedo.png "What we do")
 
 --
 
-##Nuestros orígenes
-Imagen nuestroorigenes
+##Our Origins
+Broad trajectory in technological innovation of **communication** and **systems**
+
+Broad experience in **managing critical services**
+
+![alt text](images/mediapro.png "Mediapro")
+
+--
+
+![alt text](images/ourorigins.png "Mediapro")
 
 --
 
 ##Mediacloud Solutions
-Imagen mediacloudsolutions
+![alt text](images/mediacloudsolutions.png "MEDIACLOUD Solutions")
 
 --
 
 ##Mediacloud Solution
-Imagen mediacloudsolution
+![alt text](images/mediacloudsolution.png "Mediacloud Solution")
 
 --
 
 ##Hybrid Cloud
-Imagen hybridcloud
+![alt text](images/hybridcloud.png "hybridcloud")
 
 ---
 
@@ -143,11 +151,11 @@ Imagen hybridcloud
 --
 
 ##Architecture
-Imagen architecture
+![alt text](images/architecture.png "Architecture")
 
 --
 
-##Título
+##Mediacloud Containers
 * Private Container Environment
 * Fast Deployment
 * Container over Container: Fabric 8 Continuos Deployment
@@ -159,7 +167,7 @@ Imagen architecture
 --
 
 ##Container Run-Times
-Imagen containerruntimes
+![alt text](images/containerruntimes.png "Container Run-Times")
 
 --
 
@@ -167,7 +175,7 @@ Imagen containerruntimes
 * CPU
 * Memory
 * Storage (Persistent and Non-Persistent)
-Imagen ResourceManagement
+![alt text](images/resourcemanagement.png "Resource Management")
 
 --
 
@@ -177,26 +185,27 @@ Imagen ResourceManagement
 * Projects
 * Pods
 * Containers
+![alt text](images/usagemonitoring.png "Usage Monitoring")
 
 --
 
 ##Security
-Twistlock dispone de un dashboard que permite visualizar:
+Twistlock has a dashboard which allows the visualization of:
 
-* Usuarios activos
-* Imagenes y Container en riesgo
-* Análisis de les vulnerabilidades
+* Active users
+* Images and Container at risk
+* Vulnerabilities analysis
 * ...
 
 --
 
-#Twistlock
-Imagen twistlock
+##Twistlock
+![alt text](images/twistlock.png "Twistlock")
 
 --
 
-#GIT/Jenkins integration
-Imagen gitintegration
+##GIT/Jenkins integration
+![alt text](images/gitintegration.png "GIT Integration")
 
 ---
 
