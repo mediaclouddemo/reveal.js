@@ -10,7 +10,7 @@
 
 --
 
-##Evolution of IT
+##IT Evolution
 ![alt text](images/thechallenge.png "The Challenge")
 
 --
@@ -170,6 +170,16 @@ Broad experience in **managing critical services**
 
 --
 
+##Openshift
+![alt text](images/openshift.png "Openshift")
+
+--
+
+##Templates
+![alt text](images/openshift2.png "Templates")
+
+--
+
 ##Resource Management
 * CPU
 * Memory
@@ -199,6 +209,11 @@ Twistlock has a dashboard which allows the visualization of:
 --
 
 ##Twistlock
+![alt text](images/twistlockdashboard.jpg "Twistlock")
+
+--
+
+##Twistlock Architecture
 ![alt text](images/twistlock.png "Twistlock")
 
 --
