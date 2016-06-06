@@ -328,7 +328,8 @@ html:-moz-full-screen-ancestor {
   right: 0;
   bottom: 0;
   left: 0;
-  margin: auto;
+/*  margin: auto; */
+  margin-top: 0;
   overflow: visible;
   z-index: 1;
   text-align: center;

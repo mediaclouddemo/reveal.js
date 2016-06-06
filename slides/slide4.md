@@ -208,5 +208,5 @@ Twistlock has a dashboard which allows the visualization of:
 
 ---
 
-<!-- .slide: data-background-image="http://presentacion.apps.demolab.es/mediacloudfondo.png" data-background-size="cover" -->
+<!-- .slide: data-background-image="images/mediacloudfondo.png" data-background-size="cover" -->
 ![alt text](images/qrcode.png "QRCODE")
