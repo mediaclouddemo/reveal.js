@@ -106,9 +106,9 @@ With presence worldwide, provides techniques and innovative solutions to create 
 
 Born of integration between two media groups, Mediapro and Globomedia, the IMAGINA Group is a leader in Europe and unique integration of content production and distribution services.
 
-**3.601** | **1.409 M€** | **36** | **634**
+**4.300** | **1.509 M€** | **36** | **789**
 :---: | :---: | :---: | :---:
-PROFESSIONALS | REVENUE 2014 | CENTERS | ENGINEERS & TECHNICIANS
+PROFESSIONALS | REVENUE 2015 | CENTERS | ENGINEERS & TECHNICIANS
 
 --
 
