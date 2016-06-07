@@ -1,7 +1,35 @@
+* Mediacloud
 * Market View: IT Evolution
 * Devops, Containers and Microservices
 * Mediacloud POV: Hybrid Cloud Strategies
 * Mediacloud Containers
+
+---
+
+<!-- .slide: data-background="#8dc63f" -->
+#Mediacloud
+
+--
+
+##Imagina Group
+<!-- .slide: data-background-image="images/IMG_17982.jpg" data-background-size="cover" -->
+**IMAGINA** is one of the largest media groups in Europe.
+
+With presence worldwide, provides techniques and innovative solutions to create and transmit any audiovisual product.
+
+Born of integration between two media groups, Mediapro and Globomedia, the IMAGINA Group is a leader in Europe and unique integration of content production and distribution services.
+
+**4.300** | **1.509 M€** | **36** | **789**
+:---: | :---: | :---: | :---:
+PROFESSIONALS | REVENUE 2015 | CENTERS | ENGINEERS & TECHNICIANS
+
+--
+
+<!-- .slide: data-background-image="images/whatwedo.png" data-background-size="contain" -->
+
+--
+
+<!-- .slide: data-background-image="images/ourorigins.png" data-background-size="contain" -->
 
 ---
 
@@ -98,36 +126,6 @@ Containers offer significantly faster deployment, lesser overhead, easier migrat
 
 --
 
-##Imagina Group
-<!-- .slide: data-background-image="images/IMG_17982.jpg" data-background-size="cover" -->
-**IMAGINA** is one of the largest media groups in Europe.
-
-With presence worldwide, provides techniques and innovative solutions to create and transmit any audiovisual product.
-
-Born of integration between two media groups, Mediapro and Globomedia, the IMAGINA Group is a leader in Europe and unique integration of content production and distribution services.
-
-**3.601** | **1.409 M€** | **36** | **634**
-:---: | :---: | :---: | :---:
-PROFESSIONALS | REVENUE 2014 | CENTERS | ENGINEERS & TECHNICIANS
-
---
-
-<!-- .slide: data-background-image="images/whatwedo.png" data-background-size="contain" -->
-
---
-
-##Our Origins
-Broad trajectory in technological innovation of **communication** and **systems**
-
-Broad experience in **managing critical services**
-
-![alt text](images/mediapro.png "Mediapro")
-
---
-
-<!-- .slide: data-background-image="images/ourorigins.png" data-background-size="contain" -->
-
---
 
 ##Mediacloud Solutions
 ![alt text](images/mediacloudsolutions.png "MEDIACLOUD Solutions")
