@@ -46,8 +46,6 @@ PROFESSIONALS | REVENUE 2015 | CENTERS | ENGINEERS & TECHNICIANS
 ##App-dev workloads are quickly moving to the cloud
 ![alt text](images/current-future.png "Current Future")
 
-> Source: 451 VotE Cloud, Q2 2015
-
 --
 
 ##The Problem – Complexity, Inefficiency, Inflexibility
@@ -89,8 +87,6 @@ PROFESSIONALS | REVENUE 2015 | CENTERS | ENGINEERS & TECHNICIANS
 Containers offer significantly faster deployment, lesser overhead, easier migration and faster restart 
 
 ![alt text](images/vmcontainer.png "Container")
-
-**Containers are isolated but share OS and, where appropriate, binaries and libraries**
 
 --
 
@@ -139,6 +135,14 @@ Containers offer significantly faster deployment, lesser overhead, easier migrat
 
 ##Hybrid Cloud
 ![alt text](images/hybridcloud.png "hybridcloud")
+
+--
+
+![alt text](images/ciclo1.png "hybridcloud")
+
+--
+
+![alt text](images/ciclo2.png "hybridcloud")
 
 ---
 
